@@ -125,9 +125,9 @@ To explain further we're going to have to get a little more technical so bear wi
 
 The whole NFT ecosystem works because Ethereum is decentralized and secure.
 
-Decentralized meaning you and everyone else can verify you own something. All without trusting or granting custody to a third party who can impose their own rules at will. It also means your NFT is portable across many different products and markets.
+`Decentralized` means you and everyone else can verify you own something. All without trusting or granting custody to a third party who can impose their own rules at will. It also means your NFT is portable across many different products and markets.
 
-Secure meaning no one can copy/paste your NFT or steal it.
+`Secure` means no one can copy/paste your NFT or steal it.
 
 These qualities of Ethereum makes digitally owning unique items and getting a fair price for your content possible. But it comes at a cost. Blockchains like Bitcoin and Ethereum are energy intensive right now because it takes a lot of energy to preserve these qualities. If it was easy to rewrite Ethereum's history to steal NFTs or cryptocurrency, the system collapses.
 
